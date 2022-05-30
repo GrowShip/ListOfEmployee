@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\Visual Studio 2019\HomeTask\HomeTask\HomeTask\bin\Debug\HomeTask.exe.config
+\\Mac\Home\Documents\Visual Studio 2019\HomeTask\HomeTask\HomeTask\bin\Debug\HomeTask.exe
+\\Mac\Home\Documents\Visual Studio 2019\HomeTask\HomeTask\HomeTask\bin\Debug\HomeTask.pdb
+\\Mac\Home\Documents\Visual Studio 2019\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2019\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Visual Studio 2019\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.exe
+\\Mac\Home\Documents\Visual Studio 2019\HomeTask\HomeTask\HomeTask\obj\Debug\HomeTask.pdb
